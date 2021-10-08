@@ -1,0 +1,19 @@
+{
+    "name": "woroagung/jd-sdk",
+    "description": "JD SDK x LARAVEL",
+    "authors": [
+        {
+            "name": "woroagung",
+            "email": "woroagung@yahoo.com"
+        }
+    ],
+    "homepage": "https://github.com/woroagung/jd-sdk",
+    "license": "MIT",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "classmap": ["./"]
+    },
+    "minimum-stability": "dev"
+}
