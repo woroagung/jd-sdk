@@ -13,7 +13,9 @@
         "php": "^7.2"
     },
     "autoload": {
-        "classmap": ["./"]
+        "psr-4": {
+            "woroagung\\jd\\": "./"
+        }
     },
     "minimum-stability": "dev"
 }
