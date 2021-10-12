@@ -1,4 +1,5 @@
 <?php
+namespace woroagung\jd\request;
 class SellerProductApiWriteSubmitAuditRequest
 {
 	private $apiParas = array();

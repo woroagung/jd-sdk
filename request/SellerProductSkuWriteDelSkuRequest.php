@@ -1,4 +1,5 @@
 <?php
+namespace woroagung\jd\request;
 class SellerProductSkuWriteDelSkuRequest
 {
 	private $apiParas = array();

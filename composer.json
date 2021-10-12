@@ -14,7 +14,8 @@
     },
     "autoload": {
         "psr-4": {
-            "woroagung\\jd\\": "./"
+            "woroagung\\jd\\": "./",
+            "woroagung\\jd\\request\\": "request"
         }
     },
     "minimum-stability": "dev"

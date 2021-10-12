@@ -1,4 +1,5 @@
 <?php
+namespace woroagung\jd\request;
 class SellerProductSkuWriteUpdateProductImagesRequest
 {
 	private $apiParas = array();

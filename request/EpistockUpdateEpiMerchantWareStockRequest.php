@@ -1,4 +1,5 @@
 <?php
+namespace woroagung\jd\request;
 class EpistockUpdateEpiMerchantWareStockRequest
 {
 	private $apiParas = array();

@@ -1,5 +1,5 @@
 <?php
-
+namespace woroagung\jd;
 class JdClient
 {
 	public $serverUrl = "https://open-api.jd.co.th/routerjson";
